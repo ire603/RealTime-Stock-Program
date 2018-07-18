@@ -25,7 +25,9 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-
+/*
+Author - Isaac Igroi Martin
+*/
 public class StockCanvas {
 	private static final int MAX_DATA_POINTS_LINE = 20;
 	private static final int MAX_DATA_POINTS_BAR = 20;
